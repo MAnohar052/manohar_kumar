@@ -49,11 +49,8 @@ A single-page academic profile built with vanilla HTML, CSS, and JavaScript. No 
 │   ├── script.js          # SPA navigation logic
 │   └── assets/
 │       └── cv.pdf         # Downloadable CV
-├── deployment/            # Deployment copy
-├── CV_Manohar_24092026.pdf
-├── Photo.jpeg
-├── Reference.txt
-└── package.json
+├── LICENSE                # MIT License
+└── README.md
 ```
 
 ## Local Development
